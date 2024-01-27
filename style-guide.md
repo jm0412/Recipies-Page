@@ -11,7 +11,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Nutmeg: hsl(14, 45%, 36%)
+- %Nutmeg: hsl(14, 45%, 36)
 - Dark Raspberry: hsl(332, 51%, 32%)
 
 ### Neutral
